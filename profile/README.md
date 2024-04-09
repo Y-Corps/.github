@@ -6,10 +6,10 @@ Welcome to the Y.Corps GitHub organization for our final year project. This open
 
 ## Team Members
 
-- [Poporow](https://github.com/poporow) - [Role]
-- [iLieC0des](https://github.com/iLieC0des) - [Role]
-- [BiswajitRNG](https://github.com/BiswajitRNG) - [Role]
-- [Nikunja-Sarma](https://github.com/Nikunja-Sarma) - [Role]
+- [Poporow](https://github.com/poporow) 
+- [iLieC0des](https://github.com/iLieC0des)
+- [BiswajitRNG](https://github.com/BiswajitRNG)
+- [Nikunja-Sharma](https://github.com/Nikunja-Sharma)
 
 ## Project Description
 
